@@ -6,13 +6,13 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/arvindpndit/arvindpndit/blob/main/grid-snake.svg"
+  <img  src="https://github.com/vishal01072002/my-profile/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 <br>
 
-## <picture><img src = "https://github.com/arvindpndit/arvindpndit/blob/main/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/vishal01072002/my-profile/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 Hello, I'm Vishal Kumar, a software developer, focused on frontend and also capable of handling backend and full-stack tasks and quiet good skill in Data Structure & Algorithms (DSA) using C++.
 
@@ -28,7 +28,7 @@ Hello, I'm Vishal Kumar, a software developer, focused on frontend and also capa
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/arvindpndit/arvindpndit/blob/main/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/vishal01072002/my-profile/blob/main/handshake.gif" width ="80">
 
 <br>
 
